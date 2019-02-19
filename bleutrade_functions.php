@@ -1,7 +1,7 @@
 <?php
 
-// Author: beefviper
-// Date: Nov. 11, 2014
+// Author: Victor Ratts
+// Date: Nov. 11, 2016
 
 // Bleutrade API Reference = 'https://bleutrade.com/help/API'
 // Bleutrade API Base URL = 'https://bleutrade.com/api/v2/'
